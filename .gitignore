@@ -1,0 +1,10 @@
+# Keil 编译输出
+Objects/
+Listings/
+DebugConfig/
+*.axf
+*.hex
+*.map
+
+# Keil 界面布局文件（防止不同电脑打开导致冲突）
+*.uvguix.*
